@@ -20,13 +20,3 @@ To train the CNN-RNN model for image captioning, we need a dataset of images pai
 
 
 
-
-
-## Credits
-
-This Repo includes the code from the following repository:
-
-- [Original Repository](https://github.com/iamirmasoud/image_captioning)
-
-Special thanks to (https://github.com/iamirmasoud) for their contribution.
-
